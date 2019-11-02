@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Linear-Netzteil-rescue)(type Legacy)(uri ${KIPRJMOD}/Linear-Netzteil-rescue.lib)(options "")(descr ""))
+)
